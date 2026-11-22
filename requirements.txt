@@ -1,0 +1,5 @@
+aiogram==3.26.0
+Pyrogram==2.0.106
+py-tgcalls==3.0.0
+python-dotenv==1.2.1
+TgCrypto==1.2.5
